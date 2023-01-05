@@ -6,7 +6,7 @@ const cors = require("cors");
 app.use(cors());
 app.use(express.json()); //req.body
 
-app.listen(6200, ()=>{
+app.listen(2002, ()=>{
     console.log("Sever is now listening at port 5000");
 })
 

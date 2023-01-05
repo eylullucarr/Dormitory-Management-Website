@@ -9,7 +9,7 @@ app.use(bodyParser.json());
 app.use(cors());
 app.use(express.json()); //req.body
 
-app.listen(2301, ()=>{
+app.listen(2007, ()=>{
     console.log("Sever is now listening at port 5000");
 })
 
