@@ -15,9 +15,9 @@ When a guest enters the website, they are presented with three panels. They ente
 
 # Serve the application
 
-<h5> Firstly go to the workspace directory:
+Firstly go to the workspace directory:
   
-<h4>`cd dormitory`
+  `cd dormitory`
 
 and launch the application. you can run:
 `npm start`
