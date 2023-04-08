@@ -13,9 +13,11 @@ Guest Panel:
 When a guest enters the website, they are presented with three panels. They enter the city, district, and type (Female/Male) of the dorm they are looking for in these panels. Afterwards, the website lists the dorms that meet their criteria along with information about them, comments made about them, and nearby universities.
 [Pdf file describing the project](https://drive.google.com/file/d/1yVcKtvxXj0y2ep9LjDa-mI5pMX6uL8RW/view?usp=share_link)
 
-#Serve the application
-Firstly go to the workspace directort:
-`cd dormitory`
+# Serve the application
+
+<h5> Firstly go to the workspace directory:
+  
+<h4>`cd dormitory`
 
 and launch the application. you can run:
 `npm start`
