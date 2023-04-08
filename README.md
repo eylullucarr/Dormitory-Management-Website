@@ -12,4 +12,4 @@ Guest Panel:
 When a guest enters the website, they are presented with three panels. They enter the city, district, and type (Female/Male) of the dorm they are looking for in these panels. Afterwards, the website lists the dorms that meet their criteria along with information about them, comments made about them, and nearby universities.
 
 
-[Pdf file describing the project](https://mail.google.com/mail/u/0?ui=2&ik=17a6c42fc9&attid=0.1&permmsgid=msg-a:r6217886051007272836&th=1855448236fe5ac0&view=att&disp=inline&realattid=f_lc6eo42z0)
+[Pdf file describing the project](https://drive.google.com/file/d/1lsmT-Jy3bPJ5jExzy06CnKNAracH7aft/view?usp=share_link)
