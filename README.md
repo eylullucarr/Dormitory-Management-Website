@@ -41,7 +41,7 @@ When a guest enters the website, they are presented with three panels. They ente
 
 Firstly go to the workspace directory:
   
- <h3> `cd dormitory`
+  `cd dormitory`
 
 and launch the application. you can run:
   
